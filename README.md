@@ -1,6 +1,6 @@
 # gentrif.ai
-<img width="1308" alt="Screenshot 2023-11-01 at 11 14 00 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/2c2819c2-8513-4536-b859-d6e38f20db4c" width=50 height = 300>
-<img width="1197" alt="Screenshot 2023-11-01 at 11 14 20 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/da7c990e-baf9-40c6-846d-3212309548cc" width=50 height = 300>
+<img width="1308" alt="Screenshot 2023-11-01 at 11 14 00 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/2c2819c2-8513-4536-b859-d6e38f20db4c" width=30 height = 400>
+<img width="1197" alt="Screenshot 2023-11-01 at 11 14 20 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/da7c990e-baf9-40c6-846d-3212309548cc" width=30 height = 400>
 
 
 ## Inspiration
