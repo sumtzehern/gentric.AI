@@ -1,4 +1,8 @@
 # gentrif.ai
+<img width="1308" alt="Screenshot 2023-11-01 at 11 14 00 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/2c2819c2-8513-4536-b859-d6e38f20db4c">
+<img width="1197" alt="Screenshot 2023-11-01 at 11 14 20 AM" src="https://github.com/sumtzehern/gentric.ai/assets/77678835/da7c990e-baf9-40c6-846d-3212309548cc">
+
+
 ## Inspiration
 At one point or another in our lives, we've seen gentrification in some way. The scary thing about gentrification is how inconspicuously it can creep up on you, and how many people don't recognize it.
 Gentrification is often hard to see coming before it's too late, and we wanted to create a way in which policymakers and local shareholders could be alerted to the problem while there's still time left to address it. Doing so could help entire communities from being split apart. Thus, gentrif.ai was born.
